@@ -5331,8 +5331,8 @@ MonoBehaviour:
   _spawnPrefabs:
   - {fileID: 8935743554999057735, guid: da9d539621cd8d742bb787169e3aa2fc, type: 3}
   - {fileID: 5447325634235270165, guid: a1f32e529b192484faef6f21cc0fd91b, type: 3}
-  _spawnRange: 6
-  _initBoxCount: 8
+  _spawnRange: 5
+  _initBoxCount: 4
 --- !u!4 &182535160
 Transform:
   m_ObjectHideFlags: 0

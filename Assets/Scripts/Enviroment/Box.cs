@@ -37,7 +37,7 @@ public class Box : MonoBehaviour
         State = BoxState.Delivered;
         _selfRB.isKinematic = false;
         _selfCollider.enabled = true;
-        _selfCollider.isTrigger = false;
+        _selfCollider.isTrigger = true;
         _selfRB.velocity = velocityVector;
     }
 }
