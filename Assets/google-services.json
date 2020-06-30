@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498476579530",
+    "firebase_url": "https://boxdeliveryservice-6cab0.firebaseio.com",
+    "project_id": "boxdeliveryservice-6cab0",
+    "storage_bucket": "boxdeliveryservice-6cab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498476579530:android:1ecfe7d8d68421785b9233",
+        "android_client_info": {
+          "package_name": "com.Megacoorp.BoxDeliveryService"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498476579530-u16supklic6gll751uq3je60v1ultl70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuFCKdLtTOEM1aine-rz4OofkyUaq-1S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498476579530-u16supklic6gll751uq3je60v1ultl70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
